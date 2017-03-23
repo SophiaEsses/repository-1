@@ -1,0 +1,90 @@
+ /*div {*/
+    /*background-color: rgb(158,60,900);*/
+ /*   width: 5000px;*/
+ /*}*/
+ img {
+  width: 400px;
+ }
+  /*#imageWrapper {*/
+  /* width: 3000px;*/
+  /*}*/
+ #doughnut {
+  width: 100px;
+  height:500px;
+ }
+  .yellow {
+   background-color:red;
+  }
+  #candy {
+   width: 500px;
+   height:300px;
+  }
+ body {
+  background-color: rgb(234,85,250);
+ }
+ #music {
+  height: 400px;
+ }
+ #mic {
+  height: 400px;
+  width:  500px;
+ }
+ #bags {
+  width: 800px;
+ }
+ #paint {
+  height: 300px;
+ }
+ #arts.jpg {
+  height: 300px;
+ }
+ #rightColumn {
+  float: right;
+ }
+div {
+  display: inline-block;
+ }
+ /*#eyes {*/
+ /* float: 0 auto;*/
+ /*}*/
+ /*#appleandicecream {*/
+ /* margin: left;*/
+ /*}*/
+ /*#eyes {*/
+ /* float: left;*/
+ /*}*/
+ /*#appleandicecream {*/
+ /* margin: 0 auto;*/
+ /*}*/
+ #logo {
+  margin: 0 auto;
+  width: 400px;
+  display: block;
+ }
+ #name {
+  margin: 0 auto;
+ }
+ #name2 {
+  margin: 0 auto;
+ }
+ #name3 {
+  margin: 0 auto;
+ }
+ #name4 {
+  margin: 0 auto;
+ }
+ #paragraph {
+  color: white;
+ }
+ #paragraph {
+  font: Helvetica;
+ }
+ #name4 {
+  color: blue;
+ }
+ #name2 {
+  color: white;
+ }
+ #name3 {
+  color:red;
+ }
